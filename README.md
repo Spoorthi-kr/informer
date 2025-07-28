@@ -1,2 +1,3 @@
 # informer
-Learn how Informer works
+This is a GO File
+1. 
