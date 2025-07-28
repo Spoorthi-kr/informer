@@ -69,8 +69,3 @@ Wait for Informer's cache to sync:
 if !cache.WaitForCacheSync(stopCh, podInformer.Informer().HasSynced) { 
 // Handle error 
 } 
-
-
- 
-
- 
