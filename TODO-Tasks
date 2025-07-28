@@ -1,0 +1,14 @@
+Create a sample docker image 
+Create helm charts 
+Create pod and deploy 
+Ramp up Go lang coding. 
+
+ 
+Build sample CRD. 
+Build sample CR. 
+Write a sample application which creates an informer, which will watch a custom resource. 
+Write handlers for this informer for add, update and delete. 
+
+ 
+
+ 
